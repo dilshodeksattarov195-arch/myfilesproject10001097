@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpecrypt",
+        "uuid": 10454410,
+        "checksum": "hecu2p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
